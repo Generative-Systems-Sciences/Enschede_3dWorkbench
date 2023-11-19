@@ -8,4 +8,5 @@ Here are some lecture notes that you can read to get into procedural 3D Modellin
 * [Basics of 3D Visibility Analysis](https://www.researchgate.net/publication/346203188_Visibility_Sky-View-Factor_Solar_Irradiation_and_Solar_Envelope) ([video](https://www.youtube.com/watch?v=LAsLUwy_MGw&ab_channel=PirouzNourian))
 
 These code examples are written by Ivan Leon Cardenas and Pirouz Nourian from the University of Twente and shared under an MIT license. 
+Stay tuned to our research and development updates on [Genesis Lab](https://genesis-lab.dev/)
 
