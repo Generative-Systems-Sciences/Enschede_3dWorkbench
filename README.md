@@ -10,3 +10,6 @@ Here are some lecture notes that you can read to get into procedural 3D Modellin
 These code examples are written by Ivan Leon Cardenas and Pirouz Nourian from the University of Twente and shared under an MIT license. 
 Stay tuned to our research and development updates on [Genesis Lab](https://genesis-lab.dev/)
 
+Please cite this repository as follows:
+
+Ivan Cardenas, & Pirouz Nourian. (2023). Generative-Systems-Sciences/Enschede_3dWorkbench: Pre-release (Version 0). Zenodo. https://doi.org/10.5281/zenodo.10184210
