@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10184210.svg)](https://doi.org/10.5281/zenodo.10184210)
+
+
 # Enschede_3dWorkbench
 
 This repository is to store our lab experiments for creating an open-source geospatial digital twinning workbench in Python. 
