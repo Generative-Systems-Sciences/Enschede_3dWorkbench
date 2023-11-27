@@ -2,6 +2,7 @@
 a = "Hello Python 3 in Grasshopper!"
 print(a)
 import sys
+import System
 print(sys.version)
 print(sys.path)
 print(sys.executable)
@@ -48,4 +49,20 @@ print(type(colors))
 
 distArray=np.array(d)
 a=distArray
-a=rg.Point3d(3,4,5)
+def relativizeNP(valArray):
+    valMin,valMax=(np.min(valArray),np.max(valArray))
+    relVals=(valArray - valMin) / (valMax - valMin)
+    return relVals
+
+b=relativizeNP(distArray)
+cols=viridis(relativizeNP(distArray))
+colsRGB = np.delete(cols,3,axis=1)
+colsRGB=(colsRGB*256).astype(int)
+
+print(np.max(colsRGB,axis=0))
+
+for col in colsRGB:
+    #print(col)
+    pass
+sysCols=[System.Drawing.Color.FromArgb(int(colRGB[0]),int(colRGB[1]),int(colRGB[2])) for colRGB in colsRGB]
+virC=sysCols
