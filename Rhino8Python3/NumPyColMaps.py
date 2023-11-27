@@ -39,9 +39,11 @@ for i in range(m):
 
 c=GDT
 
-from matplotlib import cm
+from matplotlib import cm#deprecated
+from matplotlib import colormaps
 # Get the 'viridis' colormap with 256 colors
-viridis = cm.get_cmap('viridis', 256)
+#viridis = cm.get_cmap('viridis', 256)
+viridis=colormaps['viridis']
 
 # Generate colors from the 'viridis' colormap
 colors = viridis(np.linspace(0, 1, 256))
