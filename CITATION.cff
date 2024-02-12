@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Enschede Digital Twinning Workbench
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - orcid: 'https://orcid.org/0009-0005-0245-633X'
+    family-names: Cárdenas-León
+    given-names: Iván
+    email: i.l.cardenasleon@utwente.nl
+    affiliation: University of Twente
+  - given-names: Nourian
+    family-names: Pirouz
+    email: p.nourian@utwente.nl
+    affiliation: University of Twente
+    orcid: 'https://orcid.org/0000-0002-3817-7931'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10184210
+    description: Zenodo DOI for the pre-release version
+url: >-
+  https://www.researchgate.net/publication/346203188_Visibility_Sky-View-Factor_Solar_Irradiation_and_Solar_Envelope
+abstract: >-
+  This repository is to store our lab experiments for
+  creating an open-source geospatial digital twinning
+  workbench in Python.
+keywords:
+  - Sky View Factor
+  - Digital Surface Model
+  - Voxelization
+license: MIT
+version: '0'
+date-released: '2023-11-22'
