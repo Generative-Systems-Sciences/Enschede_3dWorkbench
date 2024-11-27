@@ -12,7 +12,8 @@ Here are some lecture notes that you can read to get into procedural 3D Modellin
 
 * #NEW# [Basics of Geospatial Programming in GH Python and in VSCode](https://youtu.be/nQJI33tRqQs)
 * #NEW# [Visibility Computing, Solar Envelopes, and Solar Energy Harvest Estimation](https://youtu.be/RMF6TSsco4I)
-* #NEW# [3D Geospatial Twinning, the case of Sky View Factor computation](https://youtu.be/IcHCbUHpdn0)
+* #NEW# [3D Geospatial Twinning, the case of Sky View Factor computation, Part 1](https://youtu.be/IcHCbUHpdn0)
+* #NEW# [3D Geospatial Twinning, the case of Sky View Factor computation, Part 2](https://youtu.be/vZbgFauBJAo)
 
 
 These code examples are written by Ivan Leon Cardenas and Pirouz Nourian from the University of Twente and shared under an MIT license. 
