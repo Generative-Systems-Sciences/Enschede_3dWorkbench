@@ -10,6 +10,9 @@ Here are some lecture notes that you can read to get into procedural 3D Modellin
 * [Basics of Computational Geometry & Topology](https://www.researchgate.net/publication/344297280_Rudiments_of_Geometry_and_Topology_for_Computational_Design) ([video](https://www.youtube.com/watch?v=GbLL8WemVOM&ab_channel=PirouzNourian))
 * [Basics of 3D Visibility Analysis](https://www.researchgate.net/publication/346203188_Visibility_Sky-View-Factor_Solar_Irradiation_and_Solar_Envelope) ([video](https://www.youtube.com/watch?v=LAsLUwy_MGw&ab_channel=PirouzNourian))
 
+* #NEW# [Basics of Geospatial Programming in GH Python and in VSCode](https://youtu.be/nQJI33tRqQs)
+* #NEW# [Visibility Computing, Solar Envelopes, and Solar Energy Harvest Estimation](https://youtu.be/RMF6TSsco4I)
+* #NEW# [3D Geospatial Twinning, the case of Sky View Factor computation](https://youtu.be/IcHCbUHpdn0)
 These code examples are written by Ivan Leon Cardenas and Pirouz Nourian from the University of Twente and shared under an MIT license. 
 Stay tuned to our research and development updates on [Genesis Lab](https://genesis-lab.dev/)
 
