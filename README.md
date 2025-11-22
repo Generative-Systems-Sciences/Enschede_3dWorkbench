@@ -5,6 +5,9 @@
 
 This repository is to store our lab experiments for creating an open-source geospatial digital twinning workbench in Python. 
 
+Learn more about [Augmented Spatial Planning: Utilization of Geospatial Digital Twins in Environmental Planning](https://www.researchgate.net/publication/393061938_Augmented_Spatial_Planning)
+Learn more about [Open-Source Digital Twinning in Python](https://www.researchgate.net/publication/396737857_TWIN-NEXUS_An_Open-Source_Geospatial_Digital_Twinning_Workbench).
+
 Here are some lecture notes that you can read to get into procedural 3D Modelling and 3D Spatial Analysis:
 * [Basics of Linear Algebra for 3D Modelling](https://www.researchgate.net/publication/335571959_Rudiments_of_Linear_Algebra_Computer_Graphics) ([video](https://www.youtube.com/watch?v=7culbiD5oxs&ab_channel=PirouzNourian))
 * [Basics of Computational Geometry & Topology](https://www.researchgate.net/publication/344297280_Rudiments_of_Geometry_and_Topology_for_Computational_Design) ([video](https://www.youtube.com/watch?v=GbLL8WemVOM&ab_channel=PirouzNourian))
