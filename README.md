@@ -6,6 +6,7 @@
 This repository is to store our lab experiments for creating an open-source geospatial digital twinning workbench in Python. 
 
 Learn more about [Augmented Spatial Planning: Utilization of Geospatial Digital Twins in Environmental Planning](https://www.researchgate.net/publication/393061938_Augmented_Spatial_Planning)
+
 Learn more about [Open-Source Digital Twinning in Python](https://www.researchgate.net/publication/396737857_TWIN-NEXUS_An_Open-Source_Geospatial_Digital_Twinning_Workbench).
 
 Here are some lecture notes that you can read to get into procedural 3D Modelling and 3D Spatial Analysis:
